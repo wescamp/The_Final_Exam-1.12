@@ -1,3 +1,13 @@
+2.0.4
+
+- Erika no longer loyal
+- few fixes
+- classic difficulties
+
+2.0.3
+
+- several strings changes, based on translation of .po files
+
 2.0.2
 
 - modified label on scenario 3
