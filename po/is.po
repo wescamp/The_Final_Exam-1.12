@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: The_Final_Exam-1.12\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-03-03 21:39+0100\n"
+"POT-Creation-Date: 2014-03-08 23:20+0100\n"
 "PO-Revision-Date: 2014-03-03 21:39+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -38,12 +38,12 @@ msgstr ""
 
 #. [campaign]: id=The Final Exam
 #: The_Final_Exam/_main.cfg:24
-msgid "female^Apprentice"
+msgid "(Easy)"
 msgstr ""
 
 #. [campaign]: id=The Final Exam
 #: The_Final_Exam/_main.cfg:24
-msgid "(Very Easy)"
+msgid "female^Apprentice"
 msgstr ""
 
 #. [campaign]: id=The Final Exam
@@ -53,17 +53,17 @@ msgstr ""
 
 #. [campaign]: id=The Final Exam
 #: The_Final_Exam/_main.cfg:26
-msgid "(Easy)"
+msgid "(Normal)"
+msgstr ""
+
+#. [campaign]: id=The Final Exam
+#: The_Final_Exam/_main.cfg:28
+msgid "(Hard)"
 msgstr ""
 
 #. [campaign]: id=The Final Exam
 #: The_Final_Exam/_main.cfg:28
 msgid "female^Archmage"
-msgstr ""
-
-#. [campaign]: id=The Final Exam
-#: The_Final_Exam/_main.cfg:28
-msgid "(Medium)"
 msgstr ""
 
 #. [about]
@@ -120,7 +120,7 @@ msgstr ""
 #. [side]: type=Mage, id=Erika
 #: The_Final_Exam/scenarios/1_Village.cfg:48
 #: The_Final_Exam/scenarios/2_Cave.cfg:39
-#: The_Final_Exam/scenarios/3_Plague.cfg:37
+#: The_Final_Exam/scenarios/3_Plague.cfg:35
 #: The_Final_Exam/scenarios/4_Lakes.cfg:36
 msgid "female^Erika"
 msgstr ""
@@ -137,7 +137,7 @@ msgstr ""
 
 #. [objective]: condition=lose
 #: The_Final_Exam/scenarios/1_Village.cfg:107
-#: The_Final_Exam/scenarios/2_Cave.cfg:87
+#: The_Final_Exam/scenarios/2_Cave.cfg:84
 msgid "Death of Erika"
 msgstr ""
 
@@ -225,9 +225,9 @@ msgstr ""
 
 #. [message]: speaker=unit
 #: The_Final_Exam/scenarios/1_Village.cfg:241
-#: The_Final_Exam/scenarios/2_Cave.cfg:204
-#: The_Final_Exam/scenarios/3_Plague.cfg:387
-#: The_Final_Exam/scenarios/4_Lakes.cfg:321
+#: The_Final_Exam/scenarios/2_Cave.cfg:201
+#: The_Final_Exam/scenarios/3_Plague.cfg:381
+#: The_Final_Exam/scenarios/4_Lakes.cfg:318
 msgid "Oh, no! I hope this blood is not mine!"
 msgstr ""
 
@@ -243,41 +243,41 @@ msgid ""
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Final_Exam/scenarios/2_Cave.cfg:83
+#: The_Final_Exam/scenarios/2_Cave.cfg:80
 msgid "Find the book"
 msgstr ""
 
 #. [message]: speaker=Erika
-#: The_Final_Exam/scenarios/2_Cave.cfg:105
+#: The_Final_Exam/scenarios/2_Cave.cfg:102
 msgid ""
 "I don't like this place. It's too silent and too dark. But I'm sure that I "
 "will find the book. Careful, warriors, I smell trolls!"
 msgstr ""
 
 #. [message]: speaker=Erika
-#: The_Final_Exam/scenarios/2_Cave.cfg:109
+#: The_Final_Exam/scenarios/2_Cave.cfg:106
 msgid ""
 "Two heavy infantrymen are close. Maybe for 40 gold they will help me in my "
 "search."
 msgstr ""
 
 #. [option]: speaker=Erika
-#: The_Final_Exam/scenarios/2_Cave.cfg:111
+#: The_Final_Exam/scenarios/2_Cave.cfg:108
 msgid "Hey you! Looking for some gold?"
 msgstr ""
 
 #. [option]: speaker=Erika
-#: The_Final_Exam/scenarios/2_Cave.cfg:134
+#: The_Final_Exam/scenarios/2_Cave.cfg:131
 msgid "No no no, bad idea."
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Final_Exam/scenarios/2_Cave.cfg:155
+#: The_Final_Exam/scenarios/2_Cave.cfg:152
 msgid "I can't take this book. Only Erika can take it."
 msgstr ""
 
 #. [message]: speaker=Erika
-#: The_Final_Exam/scenarios/2_Cave.cfg:184
+#: The_Final_Exam/scenarios/2_Cave.cfg:181
 msgid "Great, I made it! I will be ranked as a true mage!"
 msgstr ""
 
@@ -287,7 +287,7 @@ msgid "3-Plague"
 msgstr ""
 
 #. [part]
-#: The_Final_Exam/scenarios/3_Plague.cfg:25
+#: The_Final_Exam/scenarios/3_Plague.cfg:23
 msgid ""
 "With an ancient book, Erika has gained a rank of a mage, and can become a "
 "valuable asset of a kingdom. Master of the mages, Jessin, is almost killed "
@@ -295,66 +295,61 @@ msgid ""
 msgstr ""
 
 #. [side]: type=Elvish Druid, id=Natthanelle
-#: The_Final_Exam/scenarios/3_Plague.cfg:66
+#: The_Final_Exam/scenarios/3_Plague.cfg:61
 msgid "Natthanelle"
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Final_Exam/scenarios/3_Plague.cfg:122
+#: The_Final_Exam/scenarios/3_Plague.cfg:117
 msgid "Cure master Jessin from poison"
 msgstr ""
 
 #. [objective]: condition=lose
-#: The_Final_Exam/scenarios/3_Plague.cfg:126
-#: The_Final_Exam/scenarios/4_Lakes.cfg:104
+#: The_Final_Exam/scenarios/3_Plague.cfg:121
+#: The_Final_Exam/scenarios/4_Lakes.cfg:101
 msgid "Death of Erika or Jessin"
 msgstr ""
 
 #. [objective]: condition=lose
-#: The_Final_Exam/scenarios/3_Plague.cfg:130
-#: The_Final_Exam/scenarios/4_Lakes.cfg:108
+#: The_Final_Exam/scenarios/3_Plague.cfg:125
+#: The_Final_Exam/scenarios/4_Lakes.cfg:105
 msgid "Turns run out"
 msgstr ""
 
 #. [unit]: type=Red Mage, id=Jessin
-#: The_Final_Exam/scenarios/3_Plague.cfg:152
+#: The_Final_Exam/scenarios/3_Plague.cfg:147
 msgid "male_mage_name^Jessin"
 msgstr ""
 
 #. [unit]: type=Fencer, id=Dask
-#: The_Final_Exam/scenarios/3_Plague.cfg:171
+#: The_Final_Exam/scenarios/3_Plague.cfg:166
 msgid "male_fencer_name^Dask"
 msgstr ""
 
 #. [unit]: type=Elvish Archer, id=Aceman
-#: The_Final_Exam/scenarios/3_Plague.cfg:187
+#: The_Final_Exam/scenarios/3_Plague.cfg:182
 msgid "elvish_archer^Aceman"
 msgstr ""
 
-#. [unit]: type=Troll, id=Vruzg
-#: The_Final_Exam/scenarios/3_Plague.cfg:203
-msgid "troll_name^Vruzg"
-msgstr ""
-
 #. [message]: speaker=Erika
-#: The_Final_Exam/scenarios/3_Plague.cfg:224
+#: The_Final_Exam/scenarios/3_Plague.cfg:218
 msgid "Master! Master!"
 msgstr ""
 
 #. [message]: speaker=Jessin
-#: The_Final_Exam/scenarios/3_Plague.cfg:228
+#: The_Final_Exam/scenarios/3_Plague.cfg:222
 msgid ""
-"Yes, I am here, but I do not feel very well. I am poisoned by an orcish "
-"throwing knife and I do not have antidote for this poison."
+"I don't feel very well. I am poisoned by an orcish throwing knife and I do "
+"not have antidote for this poison."
 msgstr ""
 
 #. [option]: speaker=Jessin
-#: The_Final_Exam/scenarios/3_Plague.cfg:230
+#: The_Final_Exam/scenarios/3_Plague.cfg:224
 msgid "How can I cure you?"
 msgstr ""
 
 #. [message]: speaker=Jessin
-#: The_Final_Exam/scenarios/3_Plague.cfg:234
+#: The_Final_Exam/scenarios/3_Plague.cfg:228
 msgid ""
 "In fact, only a white mage can cure me. Or a powerful elvish druid. Maybe "
 "you can also find a village, but if memory serves, the only one in this "
@@ -363,63 +358,63 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=narrator
-#: The_Final_Exam/scenarios/3_Plague.cfg:238
+#: The_Final_Exam/scenarios/3_Plague.cfg:232
 msgid ""
 "TIP: There are no white mages, but Erika can become one. Also, upgrading "
 "Jessin to higher level will cure him as well."
 msgstr ""
 
 #. [option]: speaker=Jessin
-#: The_Final_Exam/scenarios/3_Plague.cfg:243
+#: The_Final_Exam/scenarios/3_Plague.cfg:237
 msgid "I will cure you, already on it!"
 msgstr ""
 
 #. [message]: speaker=Aceman
-#: The_Final_Exam/scenarios/3_Plague.cfg:250
+#: The_Final_Exam/scenarios/3_Plague.cfg:244
 msgid ""
 "Our leader can help with this poison, but it is us, who need help right now. "
 "Orcs are everywhere and we cannot defeat them ourselves."
 msgstr ""
 
 #. [message]: speaker=Dask
-#: The_Final_Exam/scenarios/3_Plague.cfg:254
+#: The_Final_Exam/scenarios/3_Plague.cfg:248
 msgid "Based on what I seen, any help might be very useful."
 msgstr ""
 
 #. [message]: speaker=Erika
-#: The_Final_Exam/scenarios/3_Plague.cfg:271
+#: The_Final_Exam/scenarios/3_Plague.cfg:265
 msgid ""
 "This tree.. wose... is coming alive! Do not attack this wose, he can help us "
 "crush the orcs."
 msgstr ""
 
 #. [unit]: type=Elder Wose, id=Tambaddum
-#: The_Final_Exam/scenarios/3_Plague.cfg:276
+#: The_Final_Exam/scenarios/3_Plague.cfg:270
 msgid "wose_name^Tambaddum"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: The_Final_Exam/scenarios/3_Plague.cfg:287
+#: The_Final_Exam/scenarios/3_Plague.cfg:281
 msgid "From now on, you can recruit woses in your castle."
 msgstr ""
 
 #. [message]: speaker=Erika
-#: The_Final_Exam/scenarios/3_Plague.cfg:317
+#: The_Final_Exam/scenarios/3_Plague.cfg:311
 msgid "I made it, the master of the mages is cured!"
 msgstr ""
 
 #. [label]
-#: The_Final_Exam/scenarios/3_Plague.cfg:332
+#: The_Final_Exam/scenarios/3_Plague.cfg:326
 msgid "Bridge under construction"
 msgstr ""
 
 #. [message]: speaker=Erika
-#: The_Final_Exam/scenarios/3_Plague.cfg:347
+#: The_Final_Exam/scenarios/3_Plague.cfg:341
 msgid "Great, our bridge is now stable enough for us to cross it."
 msgstr ""
 
 #. [message]: id=Jessin
-#: The_Final_Exam/scenarios/3_Plague.cfg:363
+#: The_Final_Exam/scenarios/3_Plague.cfg:357
 msgid ""
 "Weather is changing. I see only a lot of fog. We cannot track the orcs as "
 "before."
@@ -427,14 +422,14 @@ msgstr ""
 
 #. [message]: id=Jessin
 #. [message]: speaker=unit
-#: The_Final_Exam/scenarios/3_Plague.cfg:373
-#: The_Final_Exam/scenarios/3_Plague.cfg:412
-#: The_Final_Exam/scenarios/4_Lakes.cfg:335
+#: The_Final_Exam/scenarios/3_Plague.cfg:367
+#: The_Final_Exam/scenarios/3_Plague.cfg:406
+#: The_Final_Exam/scenarios/4_Lakes.cfg:332
 msgid "I am dying... Aaarch!"
 msgstr ""
 
 #. [message]: speaker=Erika
-#: The_Final_Exam/scenarios/3_Plague.cfg:401
+#: The_Final_Exam/scenarios/3_Plague.cfg:395
 msgid ""
 "elves_have_female_leader^Damn, elves are under attack and their leader, "
 "skilled in healing, is dead!"
@@ -454,29 +449,29 @@ msgid ""
 msgstr ""
 
 #. [side]: type=Elvish Ranger, id=Tarhien
-#: The_Final_Exam/scenarios/4_Lakes.cfg:61
-msgid "Tarhien"
+#: The_Final_Exam/scenarios/4_Lakes.cfg:58
+msgid "male_elvish_ranger^Tarhien"
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Final_Exam/scenarios/4_Lakes.cfg:100
+#: The_Final_Exam/scenarios/4_Lakes.cfg:97
 msgid "Defeat orcish army"
 msgstr ""
 
 #. [message]: speaker=Tarhien
-#: The_Final_Exam/scenarios/4_Lakes.cfg:228
+#: The_Final_Exam/scenarios/4_Lakes.cfg:225
 msgid ""
 "Here we are. They gathered a lot of units. I am sure, they will try to "
 "destroy us with using a lot of fighters."
 msgstr ""
 
 #. [message]: speaker=Erika
-#: The_Final_Exam/scenarios/4_Lakes.cfg:232
+#: The_Final_Exam/scenarios/4_Lakes.cfg:229
 msgid "What can we do?"
 msgstr ""
 
 #. [message]: speaker=Jessin
-#: The_Final_Exam/scenarios/4_Lakes.cfg:236
+#: The_Final_Exam/scenarios/4_Lakes.cfg:233
 msgid ""
 "Destroy them. Bigger army means also more food is needed. And gold, of "
 "course. They have both from villages in the south region. If we somehow get "
@@ -484,7 +479,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Jessin
-#: The_Final_Exam/scenarios/4_Lakes.cfg:289
+#: The_Final_Exam/scenarios/4_Lakes.cfg:286
 msgid ""
 "Orcs will be in great disadvantage now. They will starve and flee, or simply "
 "die. This is all possible thanks to you, Erika. You are not only a good "
@@ -492,18 +487,18 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Erika
-#: The_Final_Exam/scenarios/4_Lakes.cfg:293
+#: The_Final_Exam/scenarios/4_Lakes.cfg:290
 msgid ""
 "Thank you, master. Not long ago, I was a simple student. Now I can use magic "
 "in combat and fight alongside friends."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: The_Final_Exam/scenarios/4_Lakes.cfg:310
+#: The_Final_Exam/scenarios/4_Lakes.cfg:307
 msgid ""
 "Erika's life was very short, after she helped both her master and the elves. "
-"One night, she was poisoned with an orcish dagger and while Erika was able "
-"to harm her enemy, poison killed her. Jessin continued to teach young mages "
-"and several of them becomes even grand mages over time, but that is a "
-"completely different story..."
+"One night, she was poisoned with an orcish throwing knife and while Erika "
+"was able to harm her enemy, poison killed her. Jessin continued to teach "
+"young mages and several of them becomes even grand mages over time, but that "
+"is a completely different story..."
 msgstr ""
