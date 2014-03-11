@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: The_Final_Exam-1.12\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-03-08 23:20+0100\n"
-"PO-Revision-Date: 2014-03-09 13:50+0100\n"
+"PO-Revision-Date: 2014-03-11 17:09+0100\n"
 "Last-Translator: Stanislav Hoferek <shoferek@gmail.com>\n"
 "Language-Team: none\n"
 "Language: sk\n"
@@ -66,12 +66,12 @@ msgstr "Mágyňa"
 #. [campaign]: id=The Final Exam
 #: The_Final_Exam/_main.cfg:26
 msgid "(Normal)"
-msgstr ""
+msgstr "Normálna"
 
 #. [campaign]: id=The Final Exam
 #: The_Final_Exam/_main.cfg:28
 msgid "(Hard)"
-msgstr ""
+msgstr "Ťažká"
 
 #. [campaign]: id=The Final Exam
 #: The_Final_Exam/_main.cfg:28
@@ -381,13 +381,12 @@ msgstr "Majster! Majster!"
 
 #. [message]: speaker=Jessin
 #: The_Final_Exam/scenarios/3_Plague.cfg:222
-#, fuzzy
 msgid ""
 "I don't feel very well. I am poisoned by an orcish throwing knife and I do "
 "not have antidote for this poison."
 msgstr ""
-"Áno, tu som, ale necítim sa veľmi dobre. Otrávil ma ork s vrhacím nožom a ja "
-"nemám na tento jed protijed."
+"Necítim sa veľmi dobre. Som otrávený orkským vrhacím nožom a na tento jed "
+"nemám žiadny protijed."
 
 #. [option]: speaker=Jessin
 #: The_Final_Exam/scenarios/3_Plague.cfg:224
@@ -515,7 +514,7 @@ msgstr ""
 #. [side]: type=Elvish Ranger, id=Tarhien
 #: The_Final_Exam/scenarios/4_Lakes.cfg:58
 msgid "male_elvish_ranger^Tarhien"
-msgstr ""
+msgstr "Tarhien"
 
 #. [objective]: condition=win
 #: The_Final_Exam/scenarios/4_Lakes.cfg:97
@@ -569,7 +568,6 @@ msgstr ""
 
 #. [message]: speaker=narrator
 #: The_Final_Exam/scenarios/4_Lakes.cfg:307
-#, fuzzy
 msgid ""
 "Erika's life was very short, after she helped both her master and the elves. "
 "One night, she was poisoned with an orcish throwing knife and while Erika "
@@ -578,10 +576,10 @@ msgid ""
 "is a completely different story..."
 msgstr ""
 "Erikin život bol veľmi krátky po tom, čo pomohla svojmu majstrovi a elfom. "
-"Jednej noci bola otrávená orkskou dýkou a aj keď bola schopná raniť svojho "
-"protivníka, zomrela na účinky jedu. Jesin pokračoval v učení mladýchh mágov "
-"a niekoľko z nich sa stalo po dlhých rokoch dokonca veľmágmi, ale to je už "
-"úplne iný príbeh..."
+"Jednej noci bola otrávená orkským vrhacím nožom a aj keď bola schopná raniť "
+"svojho protivníka, zomrela na účinky jedu. Jesin pokračoval v učení mladýchh "
+"mágov a niekoľko z nich sa stalo po dlhých rokoch dokonca veľmágmi, ale to "
+"je už úplne iný príbeh..."
 
 #~ msgid "(Very Easy)"
 #~ msgstr "Ľahučká"
