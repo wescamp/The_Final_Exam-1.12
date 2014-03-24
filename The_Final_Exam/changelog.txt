@@ -1,3 +1,18 @@
+2.5.2
+
+- changed map for scenario 3 (new cave)
+
+2.5.1
+
+- lots of fixes
+- custom portrait for erika
+- scenario 3 renamed to poison
+- scenario 4 is now much easier, mostly on hard
+
+2.5
+
+- lots of improvements made by Dugi (many thanks)
+
 2.0.4
 
 - Erika no longer loyal
