@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: The_Final_Exam-1.12\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-03-24 03:16+0100\n"
-"PO-Revision-Date: 2014-03-11 17:09+0100\n"
+"PO-Revision-Date: 2014-03-29 18:16+0100\n"
 "Last-Translator: Stanislav Hoferek <shoferek@gmail.com>\n"
 "Language-Team: none\n"
 "Language: sk\n"
@@ -70,9 +70,8 @@ msgstr "Návrh kampane"
 
 #. [about]
 #: The_Final_Exam/_main.cfg:43
-#, fuzzy
 msgid "Text and campaign corrections"
-msgstr "Úpravy textov"
+msgstr "Úpravy textov a kampane"
 
 #. [about]
 #: The_Final_Exam/_main.cfg:49
@@ -81,13 +80,12 @@ msgstr "Taktiež veľké poďakovanie pre:"
 
 #. [entry]
 #: The_Final_Exam/_main.cfg:51
-#, fuzzy
 msgid ""
 "Viliam Bur, Db0, Elvish Pillager, Fendrin (fabi) and zookeeper (yes, not "
 "capitalized)"
 msgstr ""
-"Viliam Búr, Db0, Elvish Pillager, Fendrin  a zookeeper (áno, bez veľkýh "
-"písmen)"
+"Viliam Búr, Db0, Elvish Pillager, Fendrin (fabi) a zookeeper (áno, bez "
+"veľkýh písmen)"
 
 #. [about]
 #: The_Final_Exam/_main.cfg:55
@@ -108,6 +106,10 @@ msgid ""
 "of a great magician awaits her, and maybe one day, she'll return back to the "
 "academy as a teacher."
 msgstr ""
+"Mladá mágyňa Erika práve dokončila svoje štúdia. Brány akadémie sú však "
+"pritesné pre talentovanú a ambicionáznu mágyňu, ktorá túži po pokračovaní "
+"jej bádania po celom svete. Čaká ju život veľkej kúzelníčky, a možno sa "
+"jedného dňa vráti, aby mohla učiť na akadémií ako učiteľka kúziel."
 
 #. [part]
 #: The_Final_Exam/scenarios/1_Village.cfg:34
@@ -116,6 +118,9 @@ msgid ""
 "She was assigned the task to find a book full of arcane wisdom somewhere in "
 "a cave to northeast."
 msgstr ""
+"Je tu však jedna posledná prekážka, cez ktorú musí prejsť. Jej posledná "
+"skúška. Dostala úlohu získať knihu plnú magických vedomostí kdesi v jaskyni "
+"na severovýchode."
 
 #. [side]: type=Mage, id=Erika
 #: The_Final_Exam/scenarios/1_Village.cfg:49
@@ -148,7 +153,6 @@ msgstr "Johnny"
 
 #. [message]: speaker=narrator
 #: The_Final_Exam/scenarios/1_Village.cfg:161
-#, fuzzy
 msgid "Would you like to see some beginner tips for this campaign? "
 msgstr "Chceš si prezrieť začiatočnícke rady pre túto kampaň?"
 
@@ -164,7 +168,6 @@ msgstr "Áno, prosím."
 
 #. [message]: speaker=narrator
 #: The_Final_Exam/scenarios/1_Village.cfg:173
-#, fuzzy
 msgid ""
 "This campaign has a mage as main character. Keep Erika alive and guard her. "
 "Her powerful attack will be important in many battles. She can also heal "
@@ -178,7 +181,6 @@ msgstr ""
 
 #. [message]: speaker=narrator
 #: The_Final_Exam/scenarios/1_Village.cfg:177
-#, fuzzy
 msgid ""
 "There are many reasons, why not fight orcish grunts at night. So fight only "
 "if you really need to fight, because you can lose a lot of units that you "
@@ -190,7 +192,6 @@ msgstr ""
 
 #. [message]: speaker=narrator
 #: The_Final_Exam/scenarios/1_Village.cfg:181
-#, fuzzy
 msgid ""
 "Keep Johnny alive! This bowman can become powerful very quickly and is "
 "recalled for free. He can also recruit units, and this can get really "
@@ -204,7 +205,6 @@ msgstr ""
 
 #. [message]: speaker=narrator
 #: The_Final_Exam/scenarios/1_Village.cfg:185
-#, fuzzy
 msgid ""
 "Orcs and trolls are not very good against ranged units. Exploit it! Good "
 "strategy is to combine this with healing in villages."
@@ -225,13 +225,12 @@ msgstr ""
 
 #. [message]: speaker=Erika
 #: The_Final_Exam/scenarios/1_Village.cfg:196
-#, fuzzy
 msgid ""
 "To complete my final exam, I have to find a book. It should be somewhere in "
 "that cave, if my master is right."
 msgstr ""
 "Na splnenie mojej poslednej skúšky, musím nájsť knihu. Bude niekde v tamtej "
-"jaskyni."
+"jaskyni, ak má môj majster pravdu."
 
 #. [message]: speaker=Nerek
 #: The_Final_Exam/scenarios/1_Village.cfg:201
@@ -239,6 +238,8 @@ msgid ""
 "Hey boys, here comes a silly girl with a few soldiers who look like if they "
 "had never seen a fight. They'll be a perfect dinner. Smash them!"
 msgstr ""
+"Hej banda! Prichádza akési hlúpe dievčatko s pár vojačikmi, ktorí ešte ani z "
+"diaľky nevideli boj. Bude z nich perfektná večera! Rozbite ich!"
 
 #. [message]: speaker=Johnny
 #: The_Final_Exam/scenarios/1_Village.cfg:206
@@ -246,6 +247,8 @@ msgid ""
 "I strongly doubt that you can avoid my arrows, orc. You will be pierced, "
 "hacked and burned alive!"
 msgstr ""
+"Dosť pochybujem, že sa dokážeš vyhnúť mojim šípom, ork! Budeš prebodaný, "
+"dosekaný a spálený zaživa!"
 
 #. [message]: speaker=Erika
 #: The_Final_Exam/scenarios/1_Village.cfg:216
@@ -253,6 +256,8 @@ msgid ""
 "Finally, the orcs are defeated. This fight was quite dangerous, their swords "
 "cut deep. Our way into the caves should be clear now."
 msgstr ""
+"Konečne, orkovia sú porazení. Tento boj bol veľmi nebezpečný, ich meče "
+"prenikali hlboko. Naša cesta do jaskýň je teraz čistá."
 
 #. [message]: speaker=unit
 #: The_Final_Exam/scenarios/1_Village.cfg:229
@@ -260,27 +265,28 @@ msgstr ""
 #: The_Final_Exam/scenarios/3_Poison.cfg:385
 #: The_Final_Exam/scenarios/4_Lakes.cfg:360
 msgid "No, no, no, blood on the ground, please, don't be mine..."
-msgstr ""
+msgstr "Nie nie nie, krv na zemi... dúfam, že nie je moja..."
 
 #. [message]: speaker=unit
 #: The_Final_Exam/scenarios/1_Village.cfg:243
 msgid "Aaahh! They got me! I am dying, Erika, help me!"
-msgstr ""
+msgstr "Aaah! Dostali ma! Umieram. Erika, pomôž mi!"
 
 #. [message]: speaker=Erika
 #: The_Final_Exam/scenarios/1_Village.cfg:247
 msgid "I cannot help you with that."
-msgstr ""
+msgstr "S tým ti nepomôžem."
 
 #. [message]: speaker=unit
 #: The_Final_Exam/scenarios/1_Village.cfg:251
 msgid "Get into that cave and find the book. Don't let me die in vain!"
 msgstr ""
+"Dostaň sa do jaskyne a nájdi tú knihu. Nedopusť, aby bola moja smrť zbytočná!"
 
 #. [message]: speaker=Erika
 #: The_Final_Exam/scenarios/1_Village.cfg:255
 msgid "It will be hard without you, my friend."
-msgstr ""
+msgstr "Bez teba to bude ťažké, priateľ môj."
 
 #. [scenario]: id=2_Cave
 #: The_Final_Exam/scenarios/2_Cave.cfg:5
@@ -293,6 +299,8 @@ msgid ""
 "The orcs were beaten, and they are no longer a danger for them. The cave "
 "awaits. Will the book be there?"
 msgstr ""
+"Orkovia sú porazený a už nepredstavujú žiadnu hrozbu. Jaskyňa očakáva. Bude "
+"tam tá kniha?"
 
 #. [objective]: condition=win
 #: The_Final_Exam/scenarios/2_Cave.cfg:74
@@ -305,6 +313,8 @@ msgid ""
 "I don't like this place. It's so silent and dark. These conditions fit "
 "rather the nocturnal beasts than humans, be very careful!"
 msgstr ""
+"Nepáči sa mi toto miesto. Je tu len ticho a tma. Tieto podmienky sa hodia "
+"skôr pre nočné zvery ako pre ľudí. Buďte opatrní!"
 
 #. [message]: speaker=Johnny
 #: The_Final_Exam/scenarios/2_Cave.cfg:105
@@ -316,13 +326,19 @@ msgid ""
 "it and killed him. We had to flee and walk all the night, afraid that the "
 "skeleton will arive."
 msgstr ""
+"Kedysi som bol v jaskyni ako je táto. Cestovali sme a potrebovali sme nájsť "
+"miesto na strávenie noci. Boli sme napadnutý kostlivcom. Nastrieľali sme do "
+"neho snáď i desať šípov, ale nemalo to prakticky žiadny efekt. Môj priateľ "
+"Darcyn sa pokúšal rozdrviť jeho kosti s ťažkým palcátom, ktorý našiel "
+"neďaleko, ale kostlivec ho zabil na mieste. Museli sme utiecť a kráčali sme "
+"celú noc so strachom, že nás nájde."
 
 #. [message]: speaker=Erika
 #: The_Final_Exam/scenarios/2_Cave.cfg:109
 msgid ""
 "I can hear some heavy steps echoing in the distance, it does not sound like "
 "skeletons."
-msgstr ""
+msgstr "Počujem ťažké kroky, ako sa ozývajú v diaľke. Neznie to ako kostlivec."
 
 #. [message]: speaker=Johnny
 #: The_Final_Exam/scenarios/2_Cave.cfg:113
@@ -330,6 +346,8 @@ msgid ""
 "My grandfather told me about trolls. They live in caves and attack anything "
 "that comes nearby."
 msgstr ""
+"Môj starý otec mi povedal o troloch. Žijú v jaskyniach a útočia na všetko čo "
+"sa priblíži."
 
 #. [message]: speaker=Erika
 #: The_Final_Exam/scenarios/2_Cave.cfg:117
@@ -337,6 +355,8 @@ msgid ""
 "I hope that it was just an avalanche rolling in the distance... But I'd "
 "expect trolls here too."
 msgstr ""
+"Dúfam, že to bola len ozvena padajúcich kameňov, ale môžu sa tu nachádzať aj "
+"trolovia."
 
 #. [message]: speaker=Johnny
 #: The_Final_Exam/scenarios/2_Cave.cfg:121
@@ -345,6 +365,9 @@ msgid ""
 "boots. Maybe some heavy infantrymen. I wander what are they doing here, but "
 "we might hire them. They are strong, and very effective against skeletons. "
 msgstr ""
+"Kroky sa približujú a znie to skôr ako keby niekto kráčal v ťažkých kovových "
+"čižmách. Možno nejakí ťažkoodenci. Neviem, čo tu robia, ale mohli by sme ich "
+"najať. Sú silní a veľmi efektívni proti kostlivcom."
 
 #. [message]: speaker=Erika
 #: The_Final_Exam/scenarios/2_Cave.cfg:127
@@ -353,11 +376,14 @@ msgid ""
 "distance, they can be trolls. No, their boots are made of metal. Maybe I "
 "could hire them."
 msgstr ""
+"Priala by som si, aby bol Johnny stále nažive a v poriadku. Počujem v diaľke "
+"niečo, alebo niekoho. Môžu to byť trolovia. Nie, ich čižmy sú kovové. Možno "
+"by som ich mohla najať."
 
 #. [message]: speaker=Erika
 #: The_Final_Exam/scenarios/2_Cave.cfg:133
 msgid "Hm, really, will I hire them? (40 gold)"
-msgstr ""
+msgstr "Hm, možno... najmem ich? (40 zlata)"
 
 #. [option]: speaker=Erika
 #: The_Final_Exam/scenarios/2_Cave.cfg:135
@@ -375,6 +401,8 @@ msgid ""
 "What if there is some kind of magical protection against thieves on it? What "
 "if only Erika can touch it?"
 msgstr ""
+"Čo ak je tu nejaká magická ochrana proti zlodejom? Asi by sa mala dotknúť "
+"najskôr Erika."
 
 #. [message]: speaker=Erika
 #: The_Final_Exam/scenarios/2_Cave.cfg:208
@@ -382,16 +410,18 @@ msgid ""
 "The book is before me... Now, I am a fully ranked mage and nobody will ever "
 "limit my potential!"
 msgstr ""
+"Kniha je predo mnou... Teraz budem plnohodnotná mágyňa a nikto nebude "
+"limitovať môj potenciál!"
 
 #. [message]: speaker=Erika
 #: The_Final_Exam/scenarios/2_Cave.cfg:221
 msgid "Time to come back!"
-msgstr ""
+msgstr "Čas na cestu späť!"
 
 #. [message]: speaker=Johnny
 #: The_Final_Exam/scenarios/2_Cave.cfg:226
 msgid "We have seen enough blood for this errand."
-msgstr ""
+msgstr "Už sme videli dosť krvi."
 
 #. [message]: speaker=unit
 #: The_Final_Exam/scenarios/2_Cave.cfg:251
@@ -399,6 +429,8 @@ msgid ""
 "This accursed errand. It is going to cost me too much. Can you save me from "
 "death, Erika?"
 msgstr ""
+"Celý tento výlet... Ide ma stáť naozaj veľa. Môžeš ma zachrániť od smrti, "
+"Erika?"
 
 #. [message]: speaker=Erika
 #: The_Final_Exam/scenarios/2_Cave.cfg:255
@@ -406,33 +438,34 @@ msgid ""
 "That is too serious. I can heal smaller minor wounds now, I wish I could "
 "save you!"
 msgstr ""
+"Toto je príliš váže. Môžem liečiť menšie rany a tak rada by som ťa teraz "
+"zachránila!"
 
 #. [message]: speaker=unit
 #: The_Final_Exam/scenarios/2_Cave.cfg:259
 msgid "Please know that... I secretly loved you."
-msgstr ""
+msgstr "Prosím, vedz že... tajne som ťa miloval."
 
 #. [message]: speaker=Erika
 #: The_Final_Exam/scenarios/2_Cave.cfg:263
 msgid "My life will be hard without you, my friend."
-msgstr ""
+msgstr "Môj život bude ťažký bez teba, priateľ môj."
 
 #. [scenario]: id=3_Poison
 #: The_Final_Exam/scenarios/3_Poison.cfg:5
 msgid "3-Poison"
-msgstr ""
+msgstr "3-Jed"
 
 #. [part]
 #: The_Final_Exam/scenarios/3_Poison.cfg:21
-#, fuzzy
 msgid ""
 "Having completed her final task, Erika became a mage in the kingdom's "
 "service. But then, ill times came. Master of the mages, Jessin, is almost "
 "killed by an orcish poison. Can Erika save him?"
 msgstr ""
-"So starodávnou knihou, Erika získala titul mága a môže sa stať hodnotnou "
-"posilou kráľovstva. Majster medzi mágmi, Jesin, je takmer zabitý hrozným "
-"jedom. Môže ho Erika vyliečiť?"
+"Po skončení jej poslednej úlohy sa Erika stala mágyňou v službách "
+"kráľovstva. Ale potom prišli ťažké časy. Majster medzi mágmi, Jesin, je "
+"takmer zabitý orkským jedom. Môže ho Erika zachrániť?"
 
 #. [side]: type=Elvish Druid, id=Natthanelle
 #: The_Final_Exam/scenarios/3_Poison.cfg:54
@@ -478,14 +511,14 @@ msgstr "Majster! Majster!"
 
 #. [message]: speaker=Jessin
 #: The_Final_Exam/scenarios/3_Poison.cfg:205
-#, fuzzy
 msgid ""
 "I feel really sick. I think that it was a poison from an orcish throwing "
 "knife that hit me a shortly ago. I do not have any antidote for this poison, "
 "because it is rarely used by humans.."
 msgstr ""
-"Necítim sa veľmi dobre. Som otrávený orkským vrhacím nožom a na tento jed "
-"nemám žiadny protijed."
+"Necítim sa veľmi dobre. Som otrávený orkským vrhacím nožom, ktorý ma trafil "
+"len pred chvíľou. Na tento jed nemám žiadny protijed, pretože ho ľudia "
+"prakticky nepoužívajú."
 
 #. [option]: speaker=Jessin
 #: The_Final_Exam/scenarios/3_Poison.cfg:207
@@ -494,7 +527,6 @@ msgstr "Ako ťa môžem vyliečiť?"
 
 #. [message]: speaker=Jessin
 #: The_Final_Exam/scenarios/3_Poison.cfg:211
-#, fuzzy
 msgid ""
 "In fact, only a white mage can cure me. Or a powerful elvish druid. Maybe "
 "you can also find a village, but if my memory still works correctly, the "
@@ -523,14 +555,14 @@ msgstr "Vyliečim ťa, už na tom pracujem!"
 
 #. [message]: speaker=Aceman
 #: The_Final_Exam/scenarios/3_Poison.cfg:227
-#, fuzzy
 msgid ""
 "Our leader can help with this poison, but we are in serious trouble right "
 "now. Orcs are everywhere and we cannot defeat them ourselves, we need your "
 "help!"
 msgstr ""
 "Naša líderka môže pomôcť s týmto jedom, ale sme to my, kto potrebuje pomoc "
-"práve teraz. Orkovia sú všade a my ich nemôžeme poraziť vlastnými silami."
+"práve teraz. Orkovia sú všade a my ich nemôžeme poraziť vlastnými silami. "
+"Potrebujeme tvoju pomoc!"
 
 #. [message]: speaker=Dask
 #: The_Final_Exam/scenarios/3_Poison.cfg:231
@@ -541,11 +573,10 @@ msgstr ""
 #. [message]: speaker=Erika
 #: The_Final_Exam/scenarios/3_Poison.cfg:235
 msgid "It is an honour for me to be allowed to help people like you."
-msgstr ""
+msgstr "Je to veľká česť, pomôcť takým ako si ty."
 
 #. [message]: speaker=Erika
 #: The_Final_Exam/scenarios/3_Poison.cfg:249
-#, fuzzy
 msgid ""
 "This tree.. wose... is moving! Do not attack this wose, he can help us crush "
 "the orcs."
@@ -580,7 +611,6 @@ msgstr "Výborne, náš most je dosť stabilný na to, aby sme po ňom prešli."
 
 #. [message]: id=Jessin
 #: The_Final_Exam/scenarios/3_Poison.cfg:341
-#, fuzzy
 msgid ""
 "The weather is changing. I can't see through this thick fog. We cannot track "
 "the orcs like we did before."
@@ -592,29 +622,28 @@ msgstr ""
 #. [message]: speaker=unit
 #: The_Final_Exam/scenarios/3_Poison.cfg:350
 #: The_Final_Exam/scenarios/4_Lakes.cfg:374
-#, fuzzy
 msgid "I am dying... Aaargh!"
 msgstr "Zomieram... Aaarch!"
 
 #. [message]: speaker=unit
 #: The_Final_Exam/scenarios/3_Poison.cfg:361
 msgid "We should have left him die, because this fight is going to be my last."
-msgstr ""
+msgstr "Mali by sme ho nechať zomrieť, tento boj je tým posledným."
 
 #. [message]: speaker=Erika
 #: The_Final_Exam/scenarios/3_Poison.cfg:365
 msgid "Rest in peace, my friend."
-msgstr ""
+msgstr "Odpočívaj v pokoji, priateľ môj."
 
 #. [message]: speaker=unit
 #: The_Final_Exam/scenarios/3_Poison.cfg:369
 msgid "Please know that I... I..."
-msgstr ""
+msgstr "Prosím, vedz že... ja... ja..."
 
 #. [message]: speaker=second_unit
 #: The_Final_Exam/scenarios/3_Poison.cfg:374
 msgid "Hahaha, you will never learn it, foolish girl."
-msgstr ""
+msgstr "Hahaha, nikdy sa to nedozvieš, hlúpe dievčisko."
 
 #. [message]: speaker=Erika
 #: The_Final_Exam/scenarios/3_Poison.cfg:399
@@ -637,7 +666,6 @@ msgstr "4-Jazerá"
 
 #. [part]
 #: The_Final_Exam/scenarios/4_Lakes.cfg:21
-#, fuzzy
 msgid ""
 "After Jessin became healthy and powerful again, an elven scout arrived, "
 "bearing grim news. Another orcish tribe was attacking the elves, and Erika "
@@ -654,38 +682,35 @@ msgstr "Tarhien"
 
 #. [objective]: condition=win
 #: The_Final_Exam/scenarios/4_Lakes.cfg:87
-#, fuzzy
 msgid "Defeat the orcish army"
 msgstr "Poraz armádu orkov"
 
 #. [message]: speaker=Tarhien
 #: The_Final_Exam/scenarios/4_Lakes.cfg:206
-#, fuzzy
 msgid ""
 "Here they are. They gathered a lot of warriors. I am quite sure that they "
 "will try to destroy us thanks to their supreme numbers."
 msgstr ""
-"Tu sme. Pripravili veľa jednotiek. Som si istý, že nás budú chcieť zničiť "
-"množstvom pešiakov."
+"Tak a tu sú. Pozbierali množstvo vojakov. Som si istý, že sa nás budú snažiť "
+"prevalcovať ich počtami."
 
 #. [message]: speaker=Erika
 #: The_Final_Exam/scenarios/4_Lakes.cfg:210
-#, fuzzy
 msgid "What can we do to help?"
-msgstr "Čo môžeme urobiť?"
+msgstr "Ako môžeme pomôcť?"
 
 #. [message]: speaker=Jessin
 #: The_Final_Exam/scenarios/4_Lakes.cfg:214
-#, fuzzy
 msgid ""
 "Destroy them. No matter how, you will figure something out. Bigger army "
 "needs more supplies. And gold, of course, can be used to buy them quickly. "
 "They have both from villages in the south region. If we somehow get there, "
 "we will gain a great advantage. A silver mage might teleport there, I think."
 msgstr ""
-"Zničiť ich. Väčšia armáda znamená tiež väčšiu potrebu jedla. A zlata, "
-"samozrejme. Obidvoje majú z dedín v južnej oblasti. Ak sa tam nejako "
-"dostaneme... tak napríklad strieborný mág by sa tam mohol teleportovať."
+"Zničme ich. Je jedno ako, ale na niečo prídeme. Väčšia armáda potrebuje viac "
+"zdrojov. A zlata, samozrejme. Obidvoje získavajú z dedín v južnej oblasti. "
+"Ak s tam nejako dostaneme, získame veľkú výhodu. Možno by sa tam mohol "
+"rýchlo dostať stieborný mág. aspoň dúfam."
 
 #. [message]: speaker=Johnny
 #: The_Final_Exam/scenarios/4_Lakes.cfg:223
@@ -693,11 +718,13 @@ msgid ""
 "I love fighting on your side, Erika, by the way. I will do my best to "
 "achieve a victory!"
 msgstr ""
+"Milujem boj po tvojom boku, Erika. To len tak mimochodom. Urobím čo sa bude "
+"dať, aby sme dosiahli víťazstvo."
 
 #. [message]: speaker=Erika
 #: The_Final_Exam/scenarios/4_Lakes.cfg:227
 msgid "I suspect that you love everything about me, Johnny."
-msgstr ""
+msgstr "Predpokladám, že miluješ všetko, čo so mnou nejako súvisí."
 
 #. [message]: speaker=Erika
 #: The_Final_Exam/scenarios/4_Lakes.cfg:233
@@ -705,21 +732,21 @@ msgid ""
 "I wonder what would Johnny say now if he was still alive... damn, I thought "
 "I got over his tragic fate."
 msgstr ""
+"Môžem len hádať, čo by Johnny povedal, keby bol stále nažive. Dokelu, "
+"tragický osud."
 
 #. [unit]: type=Elvish Champion, id=Smenofal
 #: The_Final_Exam/scenarios/4_Lakes.cfg:296
-#, fuzzy
 msgid "male_elvish_champion^Smenofal"
-msgstr "Tarhien"
+msgstr "Smenofal"
 
 #. [message]: speaker=Smenofal
 #: The_Final_Exam/scenarios/4_Lakes.cfg:320
 msgid "I hope we came in time."
-msgstr ""
+msgstr "Dúfam, že sme prišli včas."
 
 #. [message]: speaker=Jessin
 #: The_Final_Exam/scenarios/4_Lakes.cfg:328
-#, fuzzy
 msgid ""
 "Orcs will be in a great disadvantage now. They will starve and flee, or "
 "simply die. All of it thanks to you, Erika. You are not only a good mage, "
@@ -731,7 +758,6 @@ msgstr ""
 
 #. [message]: speaker=Erika
 #: The_Final_Exam/scenarios/4_Lakes.cfg:332
-#, fuzzy
 msgid ""
 "Thank you, master. Not long ago, I was a simple student. Now I can use magic "
 "in combat and enjoy fighting alongside friends."
@@ -741,7 +767,6 @@ msgstr ""
 
 #. [message]: speaker=narrator
 #: The_Final_Exam/scenarios/4_Lakes.cfg:349
-#, fuzzy
 msgid ""
 "Erika's life was very short after she helped both her master and the elves. "
 "One night, she was poisoned with an orcish throwing knife and while Erika "
@@ -751,7 +776,7 @@ msgid ""
 msgstr ""
 "Erikin život bol veľmi krátky po tom, čo pomohla svojmu majstrovi a elfom. "
 "Jednej noci bola otrávená orkským vrhacím nožom a aj keď bola schopná raniť "
-"svojho protivníka, zomrela na účinky jedu. Jesin pokračoval v učení mladýchh "
+"svojho protivníka, zomrela na účinky jedu. Jesin pokračoval v učení mladých "
 "mágov a niekoľko z nich sa stalo po dlhých rokoch dokonca veľmágmi, ale to "
 "je už úplne iný príbeh..."
 
@@ -761,16 +786,18 @@ msgid ""
 "Damned orcs, they have defeated me this time. Please, lead your soldiers to "
 "victory and don't let my sacrifice be in vain."
 msgstr ""
+"Prekliati orkovia, tentoraz ma porazili. Prosím, veď vojakov do boja a "
+"nedovoľ, aby bola moja smrť zbytočná."
 
 #. [message]: speaker=Erika
 #: The_Final_Exam/scenarios/4_Lakes.cfg:392
 msgid "I promise."
-msgstr ""
+msgstr "Sľubujem."
 
 #. [message]: speaker=second_unit
 #: The_Final_Exam/scenarios/4_Lakes.cfg:397
 msgid "I like breaking promises too, girl."
-msgstr ""
+msgstr "Milujem lámanie sľubov, dievčatko."
 
 #~ msgid "female^Apprentice"
 #~ msgstr "Učnica"
