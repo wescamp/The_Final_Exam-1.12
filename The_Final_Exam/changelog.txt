@@ -1,3 +1,27 @@
+2.6.1
+
+- few grammar fixes (thx to Chewan)
+- Chewan added to credits
+
+2.6.0
+
+- removed ability to recruit woses in scen4, if hero wose is not found in scen3
+- Dask introduced himself, talking about bridge
+- scenario 4 map have a secret way to the south region, few other changes
+- scenario 4 have new losing condition - death of elvish leader
+- few small changes
+- SKELETON!!!
+- Jessin have hero icon
+
+2.5.3a
+
+- fixed all edb in sc4
+
+2.5.3
+
+- changed map for scenario 1 (new road in little cave)
+- changed map for scenario 4 (make it work on older versions of wesnoth)
+
 2.5.2
 
 - changed map for scenario 3 (new cave)
